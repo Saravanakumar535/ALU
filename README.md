@@ -146,6 +146,7 @@ end
 
 endmodule
 # Output:
+![image](https://github.com/Saravanakumar535/ALU/assets/168410913/b1fd087a-d866-4db0-bb2b-a3f283713f69)
 
 # Result:
 Thus the verilog program for 16bit ALU has been simulated and verified successfully.
